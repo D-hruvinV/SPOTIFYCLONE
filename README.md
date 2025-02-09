@@ -26,7 +26,7 @@ Created both admin and user features individually.
 ## Installation
 Set up environment variables:
     Create a `.env` file in the root directory and add the following:
-    ```plaintext
+    ```
     MONGO_URI=your_mongodb_uri
     CLOUDINARY_CLOUD_NAME=your_cloudinary_cloud_name
     CLOUDINARY_API_KEY=your_cloudinary_api_key
