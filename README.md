@@ -37,3 +37,9 @@ Set up environment variables:
 1. Open your browser and navigate to `http://localhost:5173`.
 2. Create new albums and songs on the Spotify Admin page.
 3. Browse albums and songs, create playlists, and enjoy music.
+
+## Screenshots
+![Screenshot 2025-02-09 163250](https://github.com/user-attachments/assets/3daa3e26-cc17-42ce-8303-deae62ac6adc)
+![Screenshot 2025-02-09 163036](https://github.com/user-attachments/assets/77d53e56-7df0-447c-9599-0de1a111d4ee)
+![Screenshot 2025-02-09 162922](https://github.com/user-attachments/assets/3d6bd81f-5ed9-4553-bd8c-b3d6fc38cb17)
+![Screenshot 2025-02-09 163351](https://github.com/user-attachments/assets/0f8a4bc1-7cb3-425c-9b45-b9e95bd2f473)
